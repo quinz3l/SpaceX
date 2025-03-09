@@ -1,4 +1,4 @@
-# Project Title: Data Analysis and Interactive Dashboard
+# Data Analysis and Interactive Dashboard
 
 ## Description
 This project focuses on data analysis and visualization using Python. It covers various stages of data processing, from retrieval and wrangling to exploratory data analysis (EDA) and predictive analytics. Additionally, it includes an interactive dashboard built with Plotly Dash for visualizing SpaceX launch data.
